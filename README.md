@@ -4,6 +4,7 @@
 Greetings! I'm on a transformative journey from Corporate Finance Accounting to the exciting realm of Data Analytics. Armed with a solid foundation in finance, customer service expertise, and analytical skillset, I am now harnessing my skills for a dynamic career in analytics.
 
 Key Highlights:
+
 🖥️ Tool Proficiency: 
 * MS Excel
 * SQL, Python
